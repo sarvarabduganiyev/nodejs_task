@@ -1,0 +1,65 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build output directories
+dist/
+build/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Coverage directory used by tools like Istanbul
+coverage/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build / generate output
+.nuxt/
+dist/
+
+# Gatsby files
+.cache/
+public/
+
+# Serverless Framework
+.serverless/
+
+# VS Code settings
+.vscode/
+
+# TypeScript compiled files
+*.tsbuildinfo
+
+# Yarn Integrity file
+.yarn-integrity
